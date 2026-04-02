@@ -1,0 +1,19 @@
+base IP 172.16.40.x /24
+
+ervidores 10 11 12 
+
+3 servidores 
+3 clientes 
+5 vm
+
+nome das vm (nao deixar passar de 11 caracteres nome das maquinas)
+servidor 
+SRV-AD-01
+SRV-AD-02
+SRV-APP-01
+
+clientes:
+CLI-W11-01
+CLI-W11-02
+
+Senha: Paulo12345
